@@ -8,12 +8,7 @@
     "tags": ["Architect"],
     "permissions": [
         "routing:emergencyGroup:edit"
-    ],
-    "products": [
-        "Baseline channel-agnostic permissions for handling interactions",
-        "Communicate",
-        "Predictive Engagement"
-    ],
+    ],    
     "documentation": [],
     "presentation": [
         {
